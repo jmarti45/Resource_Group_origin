@@ -32,10 +32,7 @@ variable "Project3" {
 }
 
 
-# Adess space
-variable "Address_space" {
-  type = string
-}
+
 /*
 # Adess space
 variable "Address_prefixes" {
